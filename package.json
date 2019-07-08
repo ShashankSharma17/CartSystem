@@ -1,0 +1,16 @@
+{
+  "name": "CartSystem",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/ShashankSharma17/CartSystem.git",
+  "author": "ShashankSharma17 <shashank.sharma1795@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
